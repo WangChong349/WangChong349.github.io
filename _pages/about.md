@@ -8,6 +8,6 @@ redirect_from:
 ---
 Education
 =======
-+ Master's student, School of Computer Science and Engineering, Nanjing University of Science and Technology.(2022-2025)
++ M.S. in School of Computer Science and Engineering, Nanjing University of Science and Technology,(2025)
 
 
